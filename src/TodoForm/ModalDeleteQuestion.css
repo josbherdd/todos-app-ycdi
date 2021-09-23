@@ -1,0 +1,45 @@
+label {
+  text-align: center;
+  font-weight: bold;
+  font-size: #1e1e1f;
+  margin-bottom: 26px;
+}
+
+.ModalDelete-buttonContainer {
+  margin-top: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.ModalDelete-button {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  color: #202329;
+  font-weight: 400;
+  width: 140px;
+  height: 48px;
+  border-radius: 2px;
+  border: none;
+  font-family: Sans-serif;
+  margin-right: 5px;
+}
+
+.ModalDelete-button-delete {
+  background-color: #f01f66;
+  color: #e9e9e9;
+  box-shadow: 0px 0px 10px #ff5990;
+}
+
+.ModalDelete-button-change {
+  background-color: #002792;
+  color: #e9e9e9;
+  box-shadow: 0px 15px 10px rgba(32, 35, 41, 0.15);
+}
+
+.ModalDelete-button-cancel {
+  background: transparent;
+  color: #e9e9e9;
+}

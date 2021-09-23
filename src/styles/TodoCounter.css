@@ -1,0 +1,49 @@
+.TituloTodo{
+    text-align: center;
+    padding: 40px;
+    color: #00CFFF;
+}
+
+.MainTitle{
+    font-size: 24px;
+    color: #B3EFFF;
+}
+
+.support{
+    font-size: 20px;
+}
+
+.ballLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+.ballLogo__item__green {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #4caf50;
+  }
+  
+  .ballLogo__item__blue {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: aqua;
+  }
+  
+  .ballLogo__item__red {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #f01f66;
+    margin-right: 3px;
+  }
+
+p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}

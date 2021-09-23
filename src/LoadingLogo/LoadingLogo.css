@@ -1,0 +1,74 @@
+.ballLogoAnim {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.ballLogoAnim__item__green {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #4caf50;
+}
+
+.ballLogoAnim__item__blue {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: aqua;
+}
+
+.ballLogoAnim__item__red {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #f01f66;
+  margin-right: 3px;
+}
+  
+  .ballLogoAnim__item__red:nth-child(2) {
+    animation: opacitychange 1s ease-in-out infinite;
+  }
+  
+  .ballLogoAnim__item__red:nth-child(3) {
+    animation: opacitychange 1s ease-in-out 0.33s infinite;
+  }
+  
+  .ballLogoAnim__item__red:nth-child(1) {
+    animation: opacitychange 1s ease-in-out 0.66s infinite;
+  }
+  
+  .ballLogoAnim__item__blue:nth-child(2) {
+    animation: opacitychange 1s ease-in-out infinite;
+  }
+  
+  .ballLogoAnim__item__blue:nth-child(3) {
+    animation: opacitychange 1s ease-in-out 0.33s infinite;
+  }
+  
+  .ballLogoAnim__item__blue:nth-child(1) {
+    animation: opacitychange 1s ease-in-out 0.66s infinite;
+  }
+  
+  .ballLogoAnim__item__green:nth-child(2) {
+    animation: opacitychange 1s ease-in-out infinite;
+  }
+  
+  .ballLogoAnim__item__green:nth-child(3) {
+    animation: opacitychange 1s ease-in-out 0.33s infinite;
+  }
+  
+  .ballLogoAnim__item__green:nth-child(1) {
+    animation: opacitychange 1s ease-in-out 0.66s infinite;
+  }
+  
+  @keyframes opacitychange {
+    0%,
+    100% {
+      opacity: 0;
+    }
+    60% {
+      opacity: 1;
+    }
+  }
