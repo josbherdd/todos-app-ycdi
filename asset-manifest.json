@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todos-app-ycdi/static/css/main.cdd79fc8.chunk.css",
-    "main.js": "/todos-app-ycdi/static/js/main.dd0b6b6f.chunk.js",
-    "main.js.map": "/todos-app-ycdi/static/js/main.dd0b6b6f.chunk.js.map",
+    "main.js": "/todos-app-ycdi/static/js/main.b5c96393.chunk.js",
+    "main.js.map": "/todos-app-ycdi/static/js/main.b5c96393.chunk.js.map",
     "runtime-main.js": "/todos-app-ycdi/static/js/runtime-main.f25e65fb.js",
     "runtime-main.js.map": "/todos-app-ycdi/static/js/runtime-main.f25e65fb.js.map",
     "static/js/2.4ba75211.chunk.js": "/todos-app-ycdi/static/js/2.4ba75211.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f25e65fb.js",
     "static/js/2.4ba75211.chunk.js",
     "static/css/main.cdd79fc8.chunk.css",
-    "static/js/main.dd0b6b6f.chunk.js"
+    "static/js/main.b5c96393.chunk.js"
   ]
 }
